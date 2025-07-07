@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
