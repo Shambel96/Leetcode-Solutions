@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
