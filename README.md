@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Greedy
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Sliding Window
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 <!---LeetCode Topics End-->
