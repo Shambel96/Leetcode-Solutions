@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3396-valid-word](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
