@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
