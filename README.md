@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -106,10 +109,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
