@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
