@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
