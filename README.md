@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
