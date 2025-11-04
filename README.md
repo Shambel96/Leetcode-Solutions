@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
