@@ -18,7 +18,7 @@ var numMagicSquaresInside = function(grid) {
 };
 
 function isMagic(grid, r, c) {
-    // center must be 5
+    
     if (grid[r + 1][c + 1] !== 5) return false;
 
     let seen = new Set();
