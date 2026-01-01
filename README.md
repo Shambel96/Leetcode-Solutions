@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0840-magic-squares-in-grid](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
