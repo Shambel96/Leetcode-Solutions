@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
