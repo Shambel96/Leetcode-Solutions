@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3396-valid-word) |
