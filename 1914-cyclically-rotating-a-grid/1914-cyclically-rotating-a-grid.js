@@ -9,12 +9,7 @@ var rotateGrid = function(grid, k) {
     const numLayers = Math.min(m, n) / 2;
 
     for (let layer = 0; layer < numLayers; layer++) {
-        // ── 1. Extract layer elements in counter-clockwise order ──────────
-        // CCW order: top-left→right, bottom-left→up, bottom-right→left, top-right→down
-        // i.e. top row →, left col ↓, bottom row ←, right col ↑  (that's CW)
-        // CCW is the reverse, but shifting CCW by k == shifting CW by -k
-        // Easier: extract in CW order, then rotate left by k (== CCW rotation)
-
+     
         const elements = [];
         const top = layer, bottom = m - 1 - layer;
         const left = layer, right = n - 1 - layer;
