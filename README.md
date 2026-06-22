@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0840-magic-squares-in-grid](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [1189-maximum-number-of-balloons](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
