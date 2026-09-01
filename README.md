@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2784-check-if-array-is-good](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shambel96/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Shambel96/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Shambel96/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
 |  |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shambel96/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
